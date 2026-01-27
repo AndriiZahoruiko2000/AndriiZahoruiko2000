@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2024  <br><br>📚 I'm currently learning JavaScript, modern frontend development, and improving my full-stack skills at GoIT  <br><br>🎯 Goals: become a confident Frontend / Full-Stack Developer, build real-world projects, and land my first developer job  <br><br>🎲 Fun fact: I spend more time fixing bugs than creating them — and I actually enjoy it 😄</p>
 
 ###
 
