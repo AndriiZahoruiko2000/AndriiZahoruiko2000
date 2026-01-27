@@ -29,10 +29,7 @@
 ###
 
 <p align="left">## 🛠️ Проєкти<br><br>
-### ⏳ Time Capsula<br>Веб-додаток для створення “капсул часу” — повідомлень, які відкриваються у майбутньому.<br><br>🔹 Технології: **JavaScript, TypeScript, HTML, CSS**  <br>🔹 Репозиторій:  <br>👉 https://github.com/AndriiZahoruiko2000/time-capsula<br><br>---<br><br>
-### 🐾 Paw-paws little house<br>Адаптивний веб-сайт з сучасною версткою та UI.<br><br>🔹 Технології: **HTML, CSS, JavaScript**  <br>🔹 Live demo:  <br>👉 https://andriizahoruiko2000.github.io/Paw-paws-little-house/</p>
 
-###
 
 <p align="left">Hello World!!## 📈 Моя ціль<br>- Поглиблювати знання **Frontend-розробки**<br>- Розвиватися у **React** та **Node.js**<br>- Працювати з реальними проєктами та командною розробкою<br>- Отримати позицію **Junior Frontend / Full-Stack Developer**<br><br>---</p>
 
