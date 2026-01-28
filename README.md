@@ -54,11 +54,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
 
-  <a href="https://t.me/your_username" target="_blank">
+  <a href="https://t.me/andrii2715" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40" />
   </a>
 
-  <a href="https://instagram.com/your_username" target="_blank">
+  <a href="https://instagram.com/andrii.zahoruiko_17" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
   </a>
 </div>
@@ -70,6 +70,7 @@
     srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" 
     srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" 
+  <img 
+    alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
 </picture>
