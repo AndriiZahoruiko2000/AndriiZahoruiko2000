@@ -41,6 +41,14 @@
   <li>
     <a href="https://andriizahoruiko2000.github.io/Paw-paws-little-house/">Paw Paws Little House</a> – an interactive web application for an animal shelter where users can browse available pets and view relevant information. Built with JavaScript, HTML, and CSS. Dynamic content is generated through API requests.
   </li>
+  <br>
+  <li>
+    <a href="https://english-app-theta-one.vercel.app/">Next English</a> – A responsive English learning website with grammar lessons, interactive exercises, and a clean user interface. Built with HTML, CSS, TypeScript, Next.js, and REST API integration.
+  </li>
+  <br>
+   <li>
+    <a href="https://andriizahoruiko2000.github.io/Paw-paws-little-house/">Paw Paws Little House</a> – an interactive web application for an animal shelter where users can browse available pets and view relevant information. Built with JavaScript, HTML, and CSS. Dynamic content is generated through API requests.
+  </li>
 </ul>
 
 <h2 align="left">Languages:</h2>
