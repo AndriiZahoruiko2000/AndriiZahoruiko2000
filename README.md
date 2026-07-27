@@ -7,11 +7,9 @@
 <p align="left">
 ✨ Building web applications since 2025
 
-💻 Tech Stack: HTML • CSS • JavaScript • TypeScript • React • Next.js • Node.js • Express.js • MongoDB • Mongoose • REST APIs • Git • GitHub • Postman
+🚀 Passionate about creating modern full-stack applications, writing clean code, and continuously learning new technologies.
 
-🚀 Passionate about building modern full-stack applications, writing clean code, and continuously learning new technologies.
-
-🎯 Goal: Become a confident Full-Stack Developer and build products that make an impact.v
+🎯 Currently focused on building real-world projects and becoming a confident Full-Stack Developer.
 </p>
 
 <h2 align="left">I code with:</h2>
