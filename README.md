@@ -47,7 +47,7 @@
   </li>
   <br>
    <li>
-    <a href="https://andriizahoruiko2000.github.io/Paw-paws-little-house/">Paw Paws Little House</a> – an interactive web application for an animal shelter where users can browse available pets and view relevant information. Built with JavaScript, HTML, and CSS. Dynamic content is generated through API requests.
+    <a href="https://project-decodery-front.vercel.app/">Leleka</a> – Pregnancy tracking web application with user authentication, pregnancy progress tracking, note management, mood logging, and personalized daily tips. Built with Next.js, React, TypeScript, CSS Modules, and REST API integration.
   </li>
 </ul>
 
