@@ -57,6 +57,10 @@
   <li>
     <a href="https://rental-car-cyan-nine.vercel.app/">Rental Car</a> – Сar rental web application that allows users to browse available vehicles, view detailed car information, and book cars for rent through an intuitive and responsive interface. Built with Next.js, HTML, CSS, TypeScript, and REST API integration.
   </li>
+  <br>
+   <li>
+    <a href="https://tasty-treats-beige.vercel.app/">Tasty Treats</a> – Recipe discovery web application that allows users to browse recipes by category, search and filter dishes, save favorites, and manage a shopping cart through a responsive and user-friendly interface. Built with Next.js, HTML, CSS, TypeScript, and REST API integration.
+  </li>
 </ul>
 
 <h2 align="left">Languages:</h2>
