@@ -5,13 +5,13 @@
 <h2 align="left">About me:</h2>
 
 <p align="left">
-✨ Creating bugs since 2025<br><br>
+✨ Building web applications since 2025
 
-📚 I’ve already mastered HTML, CSS, JavaScript, TypeScript, and React, and now I’m diving deeper into Next.js.<br><br>
+💻 Tech Stack: HTML • CSS • JavaScript • TypeScript • React • Next.js • Node.js • Express.js • MongoDB • Mongoose • REST APIs • Git • GitHub • Postman
 
-🎯 Goals: become a confident Frontend / Full-Stack Developer, build real-world projects, and land my first developer job.<br><br>
+🚀 Passionate about building modern full-stack applications, writing clean code, and continuously learning new technologies.
 
-🎲 Fun fact: I spend more time fixing bugs than creating them — and I actually enjoy it 😄
+🎯 Goal: Become a confident Full-Stack Developer and build products that make an impact.v
 </p>
 
 <h2 align="left">I code with:</h2>
