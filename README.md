@@ -49,6 +49,10 @@
    <li>
     <a href="https://project-decodery-front.vercel.app/">Leleka</a> – Pregnancy tracking web application with user authentication, pregnancy progress tracking, note management, mood logging, and personalized daily tips. Built with Next.js, React, TypeScript, CSS Modules, and REST API integration.
   </li>
+  <br>
+  <li>
+    <a href="https://packing-your-bag.vercel.app/">Packing Your Bag</a> – Packing list web application that allows users to organize items for trips, camping, and other activities with customizable checklists. Developed with Next.js, HTML, CSS, TypeScript, Zustand, and REST API integration.
+  </li>
 </ul>
 
 <h2 align="left">Languages:</h2>
