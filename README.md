@@ -53,6 +53,10 @@
   <li>
     <a href="https://packing-your-bag.vercel.app/">Packing Your Bag</a> – Packing list web application that allows users to organize items for trips, camping, and other activities with customizable checklists. Developed with Next.js, HTML, CSS, TypeScript, Zustand, and REST API integration.
   </li>
+  <br>
+  <li>
+    <a href="https://rental-car-cyan-nine.vercel.app/">Rental Car</a> – Сar rental web application that allows users to browse available vehicles, view detailed car information, and book cars for rent through an intuitive and responsive interface. Built with Next.js, HTML, CSS, TypeScript, and REST API integration.
+  </li>
 </ul>
 
 <h2 align="left">Languages:</h2>
